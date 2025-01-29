@@ -33,5 +33,3 @@ Aquí encontrarás proyectos que reflejan mi progreso y lo que voy aprendiendo, 
 Este repositorio será un registro vivo de mi aprendizaje. ¡Cualquier feedback o sugerencia será bienvenido! 😊
 
 ---
-
-🤝 **Colabora o comparte tus ideas:** Siéntete libre de explorar y contribuir a mis proyectos.
