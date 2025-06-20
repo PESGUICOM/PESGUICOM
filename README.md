@@ -6,10 +6,10 @@
 ## 📚 Cursos y Tecnologías
 Estoy realizando cursos en **Udemy** para profundizar mis conocimientos en:
 - **Java**
-- **Go**
 - **HTML**
 - **CSS**
 - **JavaScript**
+- **GO**
 ##  📚 Cursos en progresos
 - **Universidad Java**
 - **Java en 13 días-Aplicaciones del mundo real**
@@ -27,7 +27,7 @@ Aquí encontrarás proyectos que reflejan mi progreso y lo que voy aprendiendo, 
 ### 🛠️ Herramientas
 - **IDE**: IntelliJ IDEA, VS Code, NetBeans.
 - **Control de versiones**: Git y GitHub.
-- **Frameworks y librerías**: Spring, Angular.
+- **Frameworks y librerías**: Spring Boot, Angular, React.
 
 ### 📌 Nota
 Este repositorio será un registro vivo de mi aprendizaje. ¡Cualquier feedback o sugerencia será bienvenido! 😊
